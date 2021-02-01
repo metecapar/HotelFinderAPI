@@ -1,4 +1,6 @@
 C:\Users\09371116\source\repos\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.Business.deps.json
+C:\Users\09371116\source\repos\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.Business.runtimeconfig.json
+C:\Users\09371116\source\repos\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.Business.runtimeconfig.dev.json
 C:\Users\09371116\source\repos\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.Business.dll
 C:\Users\09371116\source\repos\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.Business.pdb
 C:\Users\09371116\source\repos\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.dll
@@ -12,3 +14,4 @@ C:\Users\09371116\source\repos\HotelFinder\HotelFinder.Business\obj\Debug\netcor
 C:\Users\09371116\source\repos\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.csproj.CopyComplete
 C:\Users\09371116\source\repos\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.dll
 C:\Users\09371116\source\repos\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.pdb
+C:\Users\09371116\source\repos\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.genruntimeconfig.cache
